@@ -5,7 +5,7 @@ A utility package for [Hairstyle Analysis](https://www.hairstyleanalysis.org/).
 ## Installation
 
 ```bash
-go get github.com/susanzhang003/hairstyle-analysis-go
+go get github.com/susanzhang003/hairstyle-analysis
 ```
 
 ```bash
