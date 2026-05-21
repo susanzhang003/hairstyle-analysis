@@ -1,0 +1,14 @@
+{
+    "name": "susanzhang003/hairstyle-analysis",
+    "description": "Hairstyle Analysis tools and utilities",
+    "type": "library",
+    "homepage": "https://www.hairstyleanalysis.org/",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "susanzhang003",
+            "homepage": "https://www.hairstyleanalysis.org/"
+        }
+    ],
+    "require": {}
+}
